@@ -2,4 +2,16 @@
 
 body{
     background-color: #191818;
+} 
+.img{
+    max-width: 100%;
+    height: auto;
+}
+h1{
+    font-size: x-large;
+    color: white;
+}
+p{
+    font-size: larger;
+    color: white;
 }
