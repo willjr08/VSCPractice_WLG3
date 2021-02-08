@@ -6,11 +6,11 @@ body{
 .img{
     max-width: 100%;
     height: auto;
+    border: 1px solid #712231;
 }
 h1{
     font-size: x-large;
     color: white;
-    border: 1px solid #712231;
 }
 p{
     font-size: larger;
